@@ -15,6 +15,8 @@
 
 ### 방법 1: Release에서 다운로드 (권장) ⭐
 
+![Release 다운로드](screenshots/20260103_143848.png)
+
 **바로 실행 가능한 포터블 버전**
 
 1. [Releases 페이지](https://github.com/Giwoong-ryu/Dashboard-Portable/releases) 접속
@@ -25,7 +27,7 @@
 
 ### 방법 2: Code 버튼에서 다운로드 (개발자용)
 
-![다운로드 방법](screenshots/20260103_122851.png)
+![Code 버튼 다운로드](screenshots/20260103_122851.png)
 
 1. 위 스크린샷 참고
 2. Code 버튼 → Download ZIP

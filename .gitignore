@@ -1,6 +1,9 @@
 # Portable Node.js (너무 큼 - Release ZIP에만 포함)
 node/
 
+# ZIP 파일 (GitHub 100MB 제한 - Release에만 첨부)
+*.zip
+
 # Dependencies
 node_modules/
 dashboard/node_modules/
