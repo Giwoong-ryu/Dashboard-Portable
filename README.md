@@ -2,6 +2,8 @@
 
 초보자를 위한 AI 교육용 대시보드입니다.
 
+![대시보드 메인 화면](screenshots/screenshot_dashboard.png)
+
 ## 특징
 
 - 설치 불필요 (Node.js 내장)
@@ -21,6 +23,8 @@
 4. 브라우저에서 대시보드 확인
 
 ## AI로 데이터 수정하기
+
+![편집 모드](screenshots/screenshot_edit_mode.png)
 
 1. 대시보드에서 **"데이터 수정"** 버튼 클릭
 2. Gemini 또는 ChatGPT 새 탭 자동 열림
