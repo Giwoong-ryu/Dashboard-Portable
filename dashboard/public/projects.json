@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "예시 프로젝트 1",
+    "category": ["업무", "자동화"],
+    "status": "운영",
+    "folderPath": "C:\\Users\\user\\Documents\\Project1",
+    "workspace": "개발팀",
+    "hasGui": false,
+    "impact": "업무 효율 30% 향상",
+    "lastUpdated": "2026-01-02",
+    "todos": [
+      { "id": "1-1", "text": "할 일 1", "completed": false },
+      { "id": "1-2", "text": "할 일 2", "completed": true }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "예시 프로젝트 2",
+    "category": ["회계"],
+    "status": "개발",
+    "folderPath": "C:\\Users\\user\\Documents\\Project2",
+    "workspace": "재무팀",
+    "hasGui": false,
+    "impact": "월 10시간 절감",
+    "lastUpdated": "2026-01-02",
+    "todos": [
+      { "id": "2-1", "text": "기획 완료", "completed": true },
+      { "id": "2-2", "text": "개발 진행 중", "completed": false }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "예시 프로젝트 3",
+    "category": ["고객관리"],
+    "status": "계획",
+    "folderPath": "C:\\Users\\user\\Documents\\Project3",
+    "workspace": "영업팀",
+    "hasGui": false,
+    "impact": "고객 만족도 향상",
+    "lastUpdated": "2026-01-02",
+    "todos": [
+      { "id": "3-1", "text": "요구사항 정리", "completed": false }
+    ]
+  }
+]
