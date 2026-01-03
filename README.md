@@ -13,17 +13,25 @@
 
 ## 다운로드
 
+### 방법 1: Release에서 다운로드 (권장) ⭐
+
+**바로 실행 가능한 포터블 버전**
+
+1. [Releases 페이지](https://github.com/Giwoong-ryu/Dashboard-Portable/releases) 접속
+2. 최신 버전의 `AI-Dashboard-Portable-v1.0.zip` 다운로드 (250MB)
+3. 압축 해제 후 `실행하기` 더블클릭!
+
+> ✅ 설치 없이 바로 실행됩니다 (Node.js 포함)
+
+### 방법 2: Code 버튼에서 다운로드 (개발자용)
+
 ![다운로드 방법](screenshots/20260103_122851.png)
 
-**방법 1: Release에서 다운로드 (권장)**
-1. [Releases 페이지](../../releases) 접속
-2. 최신 버전의 `AI-Dashboard-Portable-v1.0.zip` 다운로드
-3. 압축 해제 후 사용
-
-**방법 2: Code 버튼에서 다운로드**
 1. 위 스크린샷 참고
 2. Code 버튼 → Download ZIP
-3. 압축 해제 → `npm install` → `npm run build` 필요 (개발자용)
+3. 압축 해제 → `npm install` → `npm run build` 필요
+
+> ⚠️ 개발 환경 구축이 필요합니다 (Node.js 설치 필수)
 
 ## 사용 방법
 
