@@ -1,12 +1,24 @@
+# Portable Node.js (너무 큼 - Release ZIP에만 포함)
+node/
+
 # Dependencies
 node_modules/
-node/node_modules/
+dashboard/node_modules/
 
 # Build outputs
-.next/
-out/
-build/
-dist/
+dashboard/.next/
+
+# 내부 개발 문서 (사용자용 아님)
+dashboard/.gitignore
+dashboard/PORTABLE_BUILD.md
+dashboard/README.md
+dashboard/[설치하기_원클릭].bat
+dashboard/강사용_배포가이드.md
+dashboard/실행하기.vbs
+dashboard/종료하기.vbs
+dashboard/집에서_설치하기.md
+GITHUB_배포_가이드.txt
+RELEASE_설명.txt
 
 # Logs
 *.log
