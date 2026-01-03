@@ -20,7 +20,7 @@
 **바로 실행 가능한 포터블 버전**
 
 1. [Releases 페이지](https://github.com/Giwoong-ryu/Dashboard-Portable/releases) 접속
-2. 최신 버전의 `AI-Dashboard-Portable-v1.0.zip` 다운로드 (250MB)
+2. 최신 버전의 `AI-Dashboard-Portable-v1.0-final.zip` 다운로드 (182MB)
 3. 압축 해제 후 `실행하기` 더블클릭!
 
 > ✅ 설치 없이 바로 실행됩니다 (Node.js 포함)
